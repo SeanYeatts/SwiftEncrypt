@@ -9,7 +9,7 @@ authors = [
   { name="Sean Yeatts" },
 ]
 license = {text = "MIT License"}
-description = A simple way to handle basic data encryption."
+description = "A simple way to handle basic data encryption."
 readme = "README.rst"
 requires-python = ">=3.8"
 classifiers = [
