@@ -9,7 +9,6 @@ Key Features
 ------------
 - Implements an intuitive, straightforward encryptor-keygen paradigm.
 
-
 Quickstart
 ----------
 
@@ -45,7 +44,6 @@ Quickstart
     # ENTRY POINT
     if __name__ == "__main__":
         main()
-
 
 Installation
 ------------
