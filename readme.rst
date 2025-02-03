@@ -1,13 +1,15 @@
-*Copyright (c) 2025 Sean Yeatts, Inc. All rights reserved.*
-
 SwiftEncrypt
 ============
 
+*Copyright (c) 2025 Sean Yeatts, Inc. All rights reserved.*
+
 A simple way to handle basic data encryption. Easily extendable to support custom encryption algorithms.
+
 
 Key Features
 ------------
 - Implements an intuitive, straightforward encryptor-keygen paradigm.
+
 
 Quickstart
 ----------
@@ -44,6 +46,7 @@ Quickstart
     # ENTRY POINT
     if __name__ == "__main__":
         main()
+
 
 Installation
 ------------
