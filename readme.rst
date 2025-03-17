@@ -1,7 +1,7 @@
 SwiftEncrypt
 ============
 
-*Copyright (c) 2025 Sean Yeatts, Inc. All rights reserved.*
+*Copyright (c) 2025 Sean Yeatts. All rights reserved.*
 
 A simple way to handle basic data encryption. Easily extendable to support custom encryption algorithms.
 
